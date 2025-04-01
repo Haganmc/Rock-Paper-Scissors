@@ -1,0 +1,39 @@
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 10px;
+    border: 2px solid #333;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Hover effect for buttons */
+button:hover {
+    background-color: #ddd;
+}
+
+/* Center the buttons container */
+#buttons-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+
+}
+
+body {
+    background-color: peachpuff;
+}
